@@ -26,8 +26,7 @@ We also recommend you to move to our other Repositories:
 
 ## Anomaly Detection
 
-## Large Models
+## LLMs
 
 ## Representation Learning
 
-## 
