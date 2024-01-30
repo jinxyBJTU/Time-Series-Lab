@@ -1,6 +1,9 @@
 # Time-Series-Lab
 This is a collection of resources related with Time-series.
 
+We also recommend you to move to our other Repositories:
+ - [Label Efficient Learning Lab](https://github.com/jinxyBJTU/TS-Reperesentation-Learning-Literature)
+   
 + ## Machine Learning Conferences
 + **NeurIPS- 2023 | 2022**
 + **ICML - 2023 | 2022**
