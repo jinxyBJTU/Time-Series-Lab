@@ -2,7 +2,7 @@
 This is a collection of resources related with Time-series.
 
 We also recommend you to move to our other Repositories:
- - [Label Efficient Learning Lab](https://github.com/jinxyBJTU/TS-Reperesentation-Learning-Literature)
+ - [Time-series Efficient Learning Lab](https://github.com/jinxyBJTU/TS-Reperesentation-Learning-Literature)
    
 + ## Machine Learning Conferences
 + **NeurIPS- [2024](./conference-publications/NeurIPS/2024.md) | [2023](./conference-publications/NeurIPS/2023.md) | 2022**
